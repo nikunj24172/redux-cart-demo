@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Redux Cart Application
 
 A simple and clean **React + Redux Cart** application where users can add items to cart and see the **cart item count dynamically in the Navbar**.
@@ -43,3 +44,7 @@ src/
 ├── App.js
 ├── index.js
 └── index.css
+=======
+# redux-cart-demo
+Understanding of how state management in react works 
+>>>>>>> 31efe9dfcdc176cc111c86e93c4187fc906c680c
